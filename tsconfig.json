@@ -1,6 +1,6 @@
 {
-  "declaration": true,
   "compilerOptions": {
+    "declaration": true,
     "target": "es2017",
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
