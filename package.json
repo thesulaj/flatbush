@@ -2,7 +2,7 @@
   "name": "flatbush",
   "version": "3.3.0",
   "description": "Fast static spatial index for rectangles",
-  "main": "build/flatbush.js",
+  "main": "src/index.ts",
   "module": "build/flatbush",
   "unpkg": "build/flatbush.min.js",
   "jsdelivr": "build/flatbush.min.js",
